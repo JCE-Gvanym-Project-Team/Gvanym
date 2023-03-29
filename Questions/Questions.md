@@ -1,14 +1,13 @@
 ## Website Related Questions
 
-* [ ] How should a candidate login be? SMS or username and password?
-
 * [ ] There is already a website manage job seeker's resume: https://jobs.intel.com/en/search-jobs look at it for inspiration.
 
 * [ ] Should the system for both the candidates and admins/managers all be in the website?
 
 ## Main system related questions
 
-* [ ] What sort of information is important to you about the candidates?
+* [x] What sort of information is important to you about the candidates?
+**Answer:** full name, phone, 
   
 * [ ] Can you show us the flow/process of how a candidate gets hired, the flow/process of how a recruiter inserts a new job to the system, and how would you like to change that flow?
 
@@ -21,6 +20,9 @@
 
 * [ ] Question to Noa: we have professionals from Gvanim, how should we approach them?
 
+## Questions For Website Publishers
+* [ ] What database software are you using to save information for Gvanym right now? should we use the same software?
+* [ ] 
 
 
 ## Extend / Include

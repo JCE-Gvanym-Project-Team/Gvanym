@@ -1,5 +1,8 @@
 ## Website Related Questions
 
+* [x] How should a candidate login be? SMS or username and password?
+**Answer:** SMS and optional
+
 * [x] In linkedin, you need to login to the website in order to become a candidate, do you want a system where the candidates need to login?
 **Answer:** A candidate should not login to the website to apply to a job, but should login to see their status.
 

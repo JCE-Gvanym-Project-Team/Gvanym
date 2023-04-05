@@ -2,3 +2,5 @@
 staruml-watermark/
 # remove starUML watermark
 removeWatermark.bat
+#remove vscode folder
+.vscode/

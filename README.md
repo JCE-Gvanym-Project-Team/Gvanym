@@ -1,4 +1,4 @@
-# Intrution to our project
+# Introduction
 The project focuses on recruitment management for the "Gvanim" association. "Gvanim" is an association that employs social workers, volunteers, and caregivers for people with physical disabilities or people on the autism spectrum.
 
 The association has encountered difficulties managing recruitment processes in society, and all management has been done so far through Excel, which has created significant difficulties in management.

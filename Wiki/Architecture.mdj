@@ -131,7 +131,7 @@
 									"fillColor": "#ffe69b",
 									"font": "Arial;13;0",
 									"left": 50,
-									"top": 330,
+									"top": 274,
 									"width": 54.18994140625,
 									"height": 26,
 									"text": "User - Recruiter",
@@ -141,7 +141,7 @@
 							"fillColor": "#ffe69b",
 							"font": "Arial;13;0",
 							"left": 40,
-							"top": 320,
+							"top": 264,
 							"width": 74.18994140625,
 							"height": 65,
 							"nameLabel": {
@@ -699,7 +699,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 168,
-									"top": 351,
+									"top": 295,
 									"width": 49,
 									"height": 13,
 									"alpha": -3.16020752496245,
@@ -719,7 +719,7 @@
 								"$ref": "AAAAAAGHPfIen6npuhc="
 							},
 							"lineStyle": 2,
-							"points": "113:365;1024:365",
+							"points": "113:309;1024:309",
 							"nameLabel": {
 								"$ref": "AAAAAAGHPinbU63FhIM="
 							}

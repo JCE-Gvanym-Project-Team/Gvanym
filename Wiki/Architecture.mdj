@@ -56,22 +56,22 @@
 									},
 									"fillColor": "#8c4242",
 									"fontColor": "#ffffff",
-									"font": "Arial;13;0",
-									"left": 1034,
-									"top": 122,
+									"font": "Courier New;60;0",
+									"left": 1018,
+									"top": 114,
 									"width": 309,
-									"height": 13,
+									"height": 60,
 									"text": "Firebase",
 									"wordWrap": true
 								}
 							],
 							"fillColor": "#8c4242",
 							"fontColor": "#ffffff",
-							"font": "Arial;13;0",
-							"left": 1024,
-							"top": 112,
+							"font": "Courier New;60;0",
+							"left": 1008,
+							"top": 104,
 							"width": 329,
-							"height": 913,
+							"height": 1233,
 							"nameLabel": {
 								"$ref": "AAAAAAGHPfy+v6rOajM="
 							}
@@ -94,20 +94,20 @@
 									},
 									"fillColor": "#ffe69b",
 									"font": "Arial;13;0",
-									"left": 58,
-									"top": 874,
+									"left": 626,
+									"top": 1114,
 									"width": 59.26806640625,
-									"height": 26,
-									"text": "User - Candidate",
+									"height": 13,
+									"text": "Candidate",
 									"wordWrap": true
 								}
 							],
 							"fillColor": "#ffe69b",
 							"font": "Arial;13;0",
-							"left": 48,
-							"top": 864,
+							"left": 616,
+							"top": 1104,
 							"width": 79.26806640625,
-							"height": 70,
+							"height": 102,
 							"nameLabel": {
 								"$ref": "AAAAAAGHPfGteqnernU="
 							}
@@ -130,18 +130,18 @@
 									},
 									"fillColor": "#ffe69b",
 									"font": "Arial;13;0",
-									"left": 50,
-									"top": 274,
+									"left": 706,
+									"top": 330,
 									"width": 54.18994140625,
 									"height": 26,
-									"text": "User - Recruiter",
+									"text": "Recruiter / Admin",
 									"wordWrap": true
 								}
 							],
 							"fillColor": "#ffe69b",
 							"font": "Arial;13;0",
-							"left": 40,
-							"top": 264,
+							"left": 696,
+							"top": 320,
 							"width": 74.18994140625,
 							"height": 65,
 							"nameLabel": {
@@ -165,19 +165,19 @@
 										"$ref": "AAAAAAGHPgFYTKtIRqo="
 									},
 									"fillColor": "#adff5c",
-									"font": "Arial;13;0",
-									"left": 2234,
-									"top": 674,
+									"font": "Arial;20;0",
+									"left": 1714,
+									"top": 1066,
 									"width": 102.18994140625,
-									"height": 13,
+									"height": 40,
 									"text": "Drushim Page",
 									"wordWrap": true
 								}
 							],
 							"fillColor": "#adff5c",
-							"font": "Arial;13;0",
-							"left": 2224,
-							"top": 664,
+							"font": "Arial;20;0",
+							"left": 1704,
+							"top": 1056,
 							"width": 122.18994140625,
 							"height": 137,
 							"nameLabel": {
@@ -203,18 +203,18 @@
 									"model": {
 										"$ref": "AAAAAAGHPgpF7qut2DE="
 									},
-									"font": "Arial;13;0",
-									"left": 1568,
-									"top": 703,
-									"width": 93.20263671875,
-									"height": 13,
-									"alpha": -0.05740811792887257,
-									"distance": 174.28711943227475,
+									"font": "Arial;20;0",
+									"left": 1451,
+									"top": 1171,
+									"width": 126.71875,
+									"height": 20,
+									"alpha": -1.0303775618187547,
+									"distance": 11.661903789690601,
 									"hostEdge": {
 										"$ref": "AAAAAAGHPgpF7quvHsE="
 									},
 									"edgePosition": 1,
-									"text": "Get List Of Jobs"
+									"text": "Get list of jobs"
 								}
 							],
 							"font": "Arial;13;0",
@@ -225,55 +225,9 @@
 								"$ref": "AAAAAAGHPgFYTKtIRqo="
 							},
 							"lineStyle": 2,
-							"points": "2224:720;1352:720",
+							"points": "1704:1192;1336:1192",
 							"nameLabel": {
 								"$ref": "AAAAAAGHPgpF7quw+qw="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAGHPgpyQqu7KvM=",
-							"_parent": {
-								"$ref": "AAAAAAGHPe3TYKnCYAQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGHPgpyQqu52xA="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAGHPgpyQqu8Zw8=",
-									"_parent": {
-										"$ref": "AAAAAAGHPgpyQqu7KvM="
-									},
-									"model": {
-										"$ref": "AAAAAAGHPgpyQqu52xA="
-									},
-									"font": "Arial;13;0",
-									"left": 1798,
-									"top": 768,
-									"width": 82.3671875,
-									"height": 13,
-									"alpha": 0.19362195583262765,
-									"distance": 51.97114584074513,
-									"hostEdge": {
-										"$ref": "AAAAAAGHPgpyQqu7KvM="
-									},
-									"edgePosition": 1,
-									"text": "List of Jobs"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAGHPgFYTKtIRqo="
-							},
-							"tail": {
-								"$ref": "AAAAAAGHPfy+vqrN0Sk="
-							},
-							"lineStyle": 2,
-							"points": "1352:784;2224:784",
-							"nameLabel": {
-								"$ref": "AAAAAAGHPgpyQqu8Zw8="
 							}
 						},
 						{
@@ -295,11 +249,11 @@
 									"model": {
 										"$ref": "AAAAAAGHPgvCRavXmhQ="
 									},
-									"font": "Arial;13;0",
-									"left": 2350,
-									"top": 648,
-									"width": 80.91357421875,
-									"height": 13,
+									"font": "Arial;20;0",
+									"left": 1808,
+									"top": 1036,
+									"width": 124.482421875,
+									"height": 20,
 									"alpha": -5.766490046107567,
 									"distance": 50.60632371551998,
 									"hostEdge": {
@@ -316,7 +270,7 @@
 							"tail": {
 								"$ref": "AAAAAAGHPgFYTKtIRqo="
 							},
-							"points": "2345:732;2416:732;2416:664;2345:664",
+							"points": "1825:1124;1896:1124;1896:1056;1825:1056",
 							"nameLabel": {
 								"$ref": "AAAAAAGHPgvCRqvaWZM="
 							}
@@ -338,19 +292,19 @@
 										"$ref": "AAAAAAGHPgzkEavxOSg="
 									},
 									"fillColor": "#adff5c",
-									"font": "Arial;13;0",
-									"left": 2266,
-									"top": 842,
+									"font": "Arial;20;0",
+									"left": 1730,
+									"top": 1274,
 									"width": 69,
-									"height": 26,
+									"height": 60,
 									"text": "Job page + apply",
 									"wordWrap": true
 								}
 							],
 							"fillColor": "#adff5c",
-							"font": "Arial;13;0",
-							"left": 2256,
-							"top": 832,
+							"font": "Arial;20;0",
+							"left": 1720,
+							"top": 1264,
 							"width": 89,
 							"height": 113,
 							"nameLabel": {
@@ -376,21 +330,20 @@
 									"model": {
 										"$ref": "AAAAAAGHPg6aV6wbgf8="
 									},
-									"font": "Arial;13;0",
-									"left": 384,
-									"top": 887,
-									"width": 161.83984375,
-									"height": 13,
-									"alpha": -3.231440201335303,
-									"distance": 111.44954015158609,
+									"font": "Arial;20;0",
+									"left": 692,
+									"top": 1148,
+									"width": 319.0234375,
+									"height": 20,
+									"alpha": 1.5707953267948966,
+									"distance": 10,
 									"hostEdge": {
 										"$ref": "AAAAAAGHPg6aV6wdzJY="
 									},
 									"edgePosition": 1,
-									"text": "Clicks a link to a specific job"
+									"text": "Clicks a link (facebook, whatsapp...)"
 								}
 							],
-							"lineColor": "#2b2bff",
 							"fillColor": "#7fff00",
 							"fontColor": "#00d369",
 							"font": "Arial;13;0",
@@ -401,56 +354,9 @@
 								"$ref": "AAAAAAGHPfGteqndPJc="
 							},
 							"lineStyle": 2,
-							"points": "126:904;1024:904",
+							"points": "694:1168;1008:1168",
 							"nameLabel": {
 								"$ref": "AAAAAAGHPg6aV6weACY="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAGHPhJa+6xZwhM=",
-							"_parent": {
-								"$ref": "AAAAAAGHPe3TYKnCYAQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGHPhJa+qxX664="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAGHPhJa+6xacoU=",
-									"_parent": {
-										"$ref": "AAAAAAGHPhJa+6xZwhM="
-									},
-									"model": {
-										"$ref": "AAAAAAGHPhJa+qxX664="
-									},
-									"font": "Arial;13;0",
-									"left": 1847,
-									"top": 927,
-									"width": 54.9326171875,
-									"height": 13,
-									"alpha": -0.19739553237735705,
-									"distance": 71.386273190299,
-									"hostEdge": {
-										"$ref": "AAAAAAGHPhJa+6xZwhM="
-									},
-									"edgePosition": 1,
-									"text": "Job Page"
-								}
-							],
-							"lineColor": "#2b2bff",
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAGHPgzkEavxOSg="
-							},
-							"tail": {
-								"$ref": "AAAAAAGHPfy+vqrN0Sk="
-							},
-							"lineStyle": 2,
-							"points": "1352:920;2256:920",
-							"nameLabel": {
-								"$ref": "AAAAAAGHPhJa+6xacoU="
 							}
 						},
 						{
@@ -472,13 +378,13 @@
 									"model": {
 										"$ref": "AAAAAAGHPhMMhqxx2fc="
 									},
-									"font": "Arial;13;0",
-									"left": 184,
-									"top": 863,
-									"width": 171.259765625,
-									"height": 13,
-									"alpha": -3.1742607670585348,
-									"distance": 306.1633550900565,
+									"font": "Arial;20;0",
+									"left": 710,
+									"top": 1099,
+									"width": 263.4765625,
+									"height": 20,
+									"alpha": -3.9269913169874915,
+									"distance": 14.142135623730951,
 									"hostEdge": {
 										"$ref": "AAAAAAGHPhMMh6xzXrw="
 									},
@@ -486,7 +392,6 @@
 									"text": "Request gvanim.org.il/he/jobs"
 								}
 							],
-							"lineColor": "#1f7e6e",
 							"fillColor": "#ffff49",
 							"font": "Arial;13;0",
 							"head": {
@@ -496,7 +401,7 @@
 								"$ref": "AAAAAAGHPfGteqndPJc="
 							},
 							"lineStyle": 2,
-							"points": "126:880;1024:880",
+							"points": "694:1120;1008:1120",
 							"nameLabel": {
 								"$ref": "AAAAAAGHPhMMh6x0wvQ="
 							}
@@ -520,13 +425,13 @@
 									"model": {
 										"$ref": "AAAAAAGHPhPp8KyTmdg="
 									},
-									"font": "Arial;13;0",
-									"left": 1455,
-									"top": 671,
-									"width": 82.3671875,
-									"height": 13,
-									"alpha": -3.175825851070628,
-									"distance": 292.1711826994579,
+									"font": "Arial;20;0",
+									"left": 1447,
+									"top": 1046,
+									"width": 126.71875,
+									"height": 20,
+									"alpha": -4.302262005503034,
+									"distance": 25.079872407968907,
 									"hostEdge": {
 										"$ref": "AAAAAAGHPhPp8KyVa14="
 									},
@@ -534,7 +439,6 @@
 									"text": "Drushim Page"
 								}
 							],
-							"lineColor": "#1f7e6e",
 							"font": "Arial;13;0",
 							"head": {
 								"$ref": "AAAAAAGHPgFYTKtIRqo="
@@ -543,7 +447,7 @@
 								"$ref": "AAAAAAGHPfy+vqrN0Sk="
 							},
 							"lineStyle": 2,
-							"points": "1352:688;2224:688",
+							"points": "1336:1080;1704:1080",
 							"nameLabel": {
 								"$ref": "AAAAAAGHPhPp8ayW8WY="
 							}
@@ -567,18 +471,18 @@
 									"model": {
 										"$ref": "AAAAAAGHPiGMz60M+jk="
 									},
-									"font": "Arial;13;0",
-									"left": 1511,
-									"top": 879,
-									"width": 156.8125,
-									"height": 13,
-									"alpha": -0.046478133509664676,
-									"distance": 215.23243250030885,
+									"font": "Arial;20;0",
+									"left": 1406,
+									"top": 1300,
+									"width": 246.81640625,
+									"height": 20,
+									"alpha": 4.612719337794616,
+									"distance": 10.04987562112089,
 									"hostEdge": {
 										"$ref": "AAAAAAGHPiGM0K0ObgE="
 									},
 									"edgePosition": 1,
-									"text": "Add Candidacy Information"
+									"text": "Send candidacy information"
 								}
 							],
 							"lineColor": "#ae350d",
@@ -590,7 +494,7 @@
 								"$ref": "AAAAAAGHPgzkEavxOSg="
 							},
 							"lineStyle": 2,
-							"points": "2256:896;1352:896",
+							"points": "1720:1320;1336:1320",
 							"nameLabel": {
 								"$ref": "AAAAAAGHPiGM0K0P8Ek="
 							}
@@ -615,17 +519,17 @@
 										"$ref": "AAAAAAGHPiV1xq1gOHI="
 									},
 									"font": "Arial;13;0",
-									"left": 580,
-									"top": 920,
+									"left": 672,
+									"top": 1191,
 									"width": 341.10400390625,
 									"height": 13,
-									"alpha": 3.1815713384310205,
-									"distance": 175.13994404475525,
+									"alpha": -0.6610437073125981,
+									"distance": 11.40175425099138,
 									"hostEdge": {
 										"$ref": "AAAAAAGHPiV1xq1i6LI="
 									},
 									"edgePosition": 1,
-									"text": "Send email that candidacy has been updated in our system"
+									"text": "Send email that their info was updated in our system"
 								}
 							],
 							"lineColor": "#ae350d",
@@ -637,45 +541,9 @@
 								"$ref": "AAAAAAGHPfy+vqrN0Sk="
 							},
 							"lineStyle": 2,
-							"points": "1024:933;126:933",
+							"points": "1008:1205;694:1205",
 							"nameLabel": {
 								"$ref": "AAAAAAGHPiV1xq1jpsg="
-							}
-						},
-						{
-							"_type": "FCProcessView",
-							"_id": "AAAAAAGHPimCpq2nfp8=",
-							"_parent": {
-								"$ref": "AAAAAAGHPe3TYKnCYAQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGHPimCpa2l1So="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAGHPimCpq2oB0w=",
-									"_parent": {
-										"$ref": "AAAAAAGHPimCpq2nfp8="
-									},
-									"fillColor": "#adff5c",
-									"font": "Arial;13;0",
-									"left": 1850,
-									"top": 82,
-									"width": 109,
-									"height": 13,
-									"text": "Recruiter Page",
-									"wordWrap": true
-								}
-							],
-							"fillColor": "#adff5c",
-							"font": "Arial;13;0",
-							"left": 1840,
-							"top": 72,
-							"width": 129,
-							"height": 193,
-							"nameLabel": {
-								"$ref": "AAAAAAGHPimCpq2oB0w="
 							}
 						},
 						{
@@ -697,13 +565,13 @@
 									"model": {
 										"$ref": "AAAAAAGHPinbU63CrE4="
 									},
-									"font": "Arial;13;0",
-									"left": 168,
-									"top": 295,
+									"font": "Arial;20;0",
+									"left": 824,
+									"top": 334,
 									"width": 49,
-									"height": 13,
-									"alpha": -3.16020752496245,
-									"distance": 376.06515392947534,
+									"height": 20,
+									"alpha": -3.314838362492138,
+									"distance": 40.607881008493905,
 									"hostEdge": {
 										"$ref": "AAAAAAGHPinbU63E3Es="
 									},
@@ -719,7 +587,7 @@
 								"$ref": "AAAAAAGHPfIen6npuhc="
 							},
 							"lineStyle": 2,
-							"points": "113:309;1024:309",
+							"points": "769:352;1008:352",
 							"nameLabel": {
 								"$ref": "AAAAAAGHPinbU63FhIM="
 							}
@@ -743,13 +611,13 @@
 									"model": {
 										"$ref": "AAAAAAGHPi4OIK35jJU="
 									},
-									"font": "Arial;13;0",
-									"left": 1456,
-									"top": 159,
-									"width": 95.69091796875,
-									"height": 13,
-									"alpha": -3.248707988371904,
-									"distance": 93.53608929178085,
+									"font": "Arial;20;0",
+									"left": 1344,
+									"top": 271,
+									"width": 147.216796875,
+									"height": 20,
+									"alpha": -4.501296330088873,
+									"distance": 14.317821063276353,
 									"hostEdge": {
 										"$ref": "AAAAAAGHPi4OIa37aNs="
 									},
@@ -765,184 +633,9 @@
 								"$ref": "AAAAAAGHPfy+vqrN0Sk="
 							},
 							"lineStyle": 2,
-							"points": "1352:176;1840:176",
+							"points": "1336:296;1504:296",
 							"nameLabel": {
 								"$ref": "AAAAAAGHPi4OIa38dPg="
-							}
-						},
-						{
-							"_type": "FCProcessView",
-							"_id": "AAAAAAGHPjQtUK4UzpI=",
-							"_parent": {
-								"$ref": "AAAAAAGHPe3TYKnCYAQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGHPjQtUK4Sgk0="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAGHPjQtUK4Vw7Q=",
-									"_parent": {
-										"$ref": "AAAAAAGHPjQtUK4UzpI="
-									},
-									"fillColor": "#adff5c",
-									"font": "Arial;13;0",
-									"left": 1906,
-									"top": 298,
-									"width": 54.18994140625,
-									"height": 26,
-									"text": "Statistics Page",
-									"wordWrap": true
-								}
-							],
-							"fillColor": "#adff5c",
-							"font": "Arial;13;0",
-							"left": 1896,
-							"top": 288,
-							"width": 74.18994140625,
-							"height": 97,
-							"nameLabel": {
-								"$ref": "AAAAAAGHPjQtUK4Vw7Q="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAGHPjVN8q5DdcQ=",
-							"_parent": {
-								"$ref": "AAAAAAGHPe3TYKnCYAQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGHPjVN8q5BylE="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAGHPjVN8q5EYaM=",
-									"_parent": {
-										"$ref": "AAAAAAGHPjVN8q5DdcQ="
-									},
-									"model": {
-										"$ref": "AAAAAAGHPjVN8q5BylE="
-									},
-									"font": "Arial;13;0",
-									"left": 1671,
-									"top": 735,
-									"width": 106.96435546875,
-									"height": 13,
-									"alpha": -0.15499676575616572,
-									"distance": 64.77653896280658,
-									"hostEdge": {
-										"$ref": "AAAAAAGHPjVN8q5DdcQ="
-									},
-									"edgePosition": 1,
-									"text": "Request Job Page"
-								}
-							],
-							"lineColor": "#2b2bff",
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAGHPfy+vqrN0Sk="
-							},
-							"tail": {
-								"$ref": "AAAAAAGHPgFYTKtIRqo="
-							},
-							"lineStyle": 2,
-							"points": "2224:752;1352:752",
-							"nameLabel": {
-								"$ref": "AAAAAAGHPjVN8q5EYaM="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAGHPjXt865YWdI=",
-							"_parent": {
-								"$ref": "AAAAAAGHPe3TYKnCYAQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGHPjXt865WhGg="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAGHPjXt865Z09w=",
-									"_parent": {
-										"$ref": "AAAAAAGHPjXt865YWdI="
-									},
-									"model": {
-										"$ref": "AAAAAAGHPjXt865WhGg="
-									},
-									"font": "Arial;13;0",
-									"left": 1552,
-									"top": 319,
-									"width": 85.9853515625,
-									"height": 13,
-									"alpha": -3.4633433079864653,
-									"distance": 31.622776601683793,
-									"hostEdge": {
-										"$ref": "AAAAAAGHPjXt865YWdI="
-									},
-									"edgePosition": 1,
-									"text": "Statistics Page"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAGHPjQtUK4UzpI="
-							},
-							"tail": {
-								"$ref": "AAAAAAGHPfy+vqrN0Sk="
-							},
-							"lineStyle": 2,
-							"points": "1352:336;1896:336",
-							"nameLabel": {
-								"$ref": "AAAAAAGHPjXt865Z09w="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAGHPjYKRa5jM7Q=",
-							"_parent": {
-								"$ref": "AAAAAAGHPe3TYKnCYAQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGHPjYKRa5hLSA="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAGHPjYKRa5kemE=",
-									"_parent": {
-										"$ref": "AAAAAAGHPjYKRa5jM7Q="
-									},
-									"model": {
-										"$ref": "AAAAAAGHPjYKRa5hLSA="
-									},
-									"font": "Arial;13;0",
-									"left": 1575,
-									"top": 184,
-									"width": 138.01708984375,
-									"height": 13,
-									"alpha": 3.346988001182231,
-									"distance": 49.03060268852505,
-									"hostEdge": {
-										"$ref": "AAAAAAGHPjYKRa5jM7Q="
-									},
-									"edgePosition": 1,
-									"text": "Request Statistics Page"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAGHPfy+vqrN0Sk="
-							},
-							"tail": {
-								"$ref": "AAAAAAGHPimCpq2nfp8="
-							},
-							"lineStyle": 2,
-							"points": "1840:200;1352:200",
-							"nameLabel": {
-								"$ref": "AAAAAAGHPjYKRa5kemE="
 							}
 						},
 						{
@@ -965,9 +658,9 @@
 										"$ref": "AAAAAAGHPjhx566FRxU="
 									},
 									"font": "Arial;13;0",
-									"left": 1813,
-									"top": 23,
-									"width": 148.154296875,
+									"left": 1439,
+									"top": 71,
+									"width": 227.9296875,
 									"height": 13,
 									"alpha": -4.612721317992635,
 									"distance": 10.04987562112089,
@@ -985,9 +678,601 @@
 							"tail": {
 								"$ref": "AAAAAAGHPimCpq2nfp8="
 							},
-							"points": "1864:72;1864:40;1912:40;1912:72",
+							"points": "1529:120;1529:88;1577:88;1577:120",
 							"nameLabel": {
 								"$ref": "AAAAAAGHPjhx566Imbg="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGHPimCpq2nfp8=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHPimCpa2l1So="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHPimCpq2oB0w=",
+									"_parent": {
+										"$ref": "AAAAAAGHPimCpq2nfp8="
+									},
+									"fillColor": "#adff5c",
+									"font": "Arial;20;0",
+									"left": 1514,
+									"top": 130,
+									"width": 127.47998046875,
+									"height": 40,
+									"text": "Recruiter's Main Page",
+									"wordWrap": true
+								}
+							],
+							"fillColor": "#adff5c",
+							"font": "Arial;20;0",
+							"left": 1504,
+							"top": 120,
+							"width": 147.47998046875,
+							"height": 177,
+							"nameLabel": {
+								"$ref": "AAAAAAGHPimCpq2oB0w="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGHwoB5hSpcf9U=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwoB5hSpaHX8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHwoB5hSpdARo=",
+									"_parent": {
+										"$ref": "AAAAAAGHwoB5hSpcf9U="
+									},
+									"fillColor": "#adff5c",
+									"font": "Arial;20;0",
+									"left": 1714,
+									"top": 770,
+									"width": 109,
+									"height": 40,
+									"text": "Reports Page",
+									"wordWrap": true
+								}
+							],
+							"fillColor": "#adff5c",
+							"font": "Arial;20;0",
+							"left": 1704,
+							"top": 760,
+							"width": 129,
+							"height": 161,
+							"nameLabel": {
+								"$ref": "AAAAAAGHwoB5hSpdARo="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGHwoCWhSpmqaU=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwoCWhCpk3UE="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHwoCWhSpnnyg=",
+									"_parent": {
+										"$ref": "AAAAAAGHwoCWhSpmqaU="
+									},
+									"fillColor": "#adff5c",
+									"font": "Arial;20;0",
+									"left": 1714,
+									"top": 554,
+									"width": 109,
+									"height": 60,
+									"text": "Manage Candidates Page",
+									"wordWrap": true
+								}
+							],
+							"fillColor": "#adff5c",
+							"font": "Arial;20;0",
+							"left": 1704,
+							"top": 544,
+							"width": 129,
+							"height": 161,
+							"nameLabel": {
+								"$ref": "AAAAAAGHwoCWhSpnnyg="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGHwoCzTSpvA1U=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwoCzTCptQ5A="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHwoCzTSpwYNE=",
+									"_parent": {
+										"$ref": "AAAAAAGHwoCzTSpvA1U="
+									},
+									"fillColor": "#adff5c",
+									"font": "Arial;20;0",
+									"left": 1714,
+									"top": 330,
+									"width": 109,
+									"height": 40,
+									"text": "Manage Jobs Page",
+									"wordWrap": true
+								}
+							],
+							"fillColor": "#adff5c",
+							"font": "Arial;20;0",
+							"left": 1704,
+							"top": 320,
+							"width": 129,
+							"height": 161,
+							"nameLabel": {
+								"$ref": "AAAAAAGHwoCzTSpwYNE="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHwpopDyqj8tI=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwpopDiqhv1Q="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHwpopDyqkv4w=",
+									"_parent": {
+										"$ref": "AAAAAAGHwpopDyqj8tI="
+									},
+									"model": {
+										"$ref": "AAAAAAGHwpopDiqhv1Q="
+									},
+									"font": "Arial;20;0",
+									"left": 1671,
+									"top": 110,
+									"width": 202.34375,
+									"height": 20,
+									"alpha": -2.601574002723628,
+									"distance": 427.88900429901213,
+									"hostEdge": {
+										"$ref": "AAAAAAGHwpopDyqj8tI="
+									},
+									"edgePosition": 1,
+									"text": "Request Reports Page"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHwoB5hSpcf9U="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHPimCpq2nfp8="
+							},
+							"lineStyle": 2,
+							"points": "1650:128;1992:128;1992:848;1832:848",
+							"nameLabel": {
+								"$ref": "AAAAAAGHwpopDyqkv4w="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHwpqlKSq2g6A=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwpqlKSq0Gmw="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHwpqlKSq3t7o=",
+									"_parent": {
+										"$ref": "AAAAAAGHwpqlKSq2g6A="
+									},
+									"model": {
+										"$ref": "AAAAAAGHwpqlKSq0Gmw="
+									},
+									"font": "Arial;20;0",
+									"left": 1656,
+									"top": 174,
+									"width": 311.328125,
+									"height": 20,
+									"alpha": -2.662073443310776,
+									"distance": 253.60205046489668,
+									"hostEdge": {
+										"$ref": "AAAAAAGHwpqlKSq2g6A="
+									},
+									"edgePosition": 1,
+									"text": "Request Manage Candidates Page"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHwoCWhSpmqaU="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHPimCpq2nfp8="
+							},
+							"lineStyle": 2,
+							"points": "1650:196;1928:196;1928:624;1832:624",
+							"nameLabel": {
+								"$ref": "AAAAAAGHwpqlKSq3t7o="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHwqAVHyrHO10=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwqAVHyrFvAY="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHwqAVICrIMvQ=",
+									"_parent": {
+										"$ref": "AAAAAAGHwqAVHyrHO10="
+									},
+									"model": {
+										"$ref": "AAAAAAGHwqAVHyrFvAY="
+									},
+									"font": "Arial;20;0",
+									"left": 1655,
+									"top": 249,
+									"width": 252.392578125,
+									"height": 20,
+									"alpha": -2.266614726494302,
+									"distance": 118.56221995222593,
+									"hostEdge": {
+										"$ref": "AAAAAAGHwqAVHyrHO10="
+									},
+									"edgePosition": 1,
+									"text": "Request Manage Jobs Page"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHwoCzTSpvA1U="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHPimCpq2nfp8="
+							},
+							"lineStyle": 2,
+							"points": "1650:272;1872:272;1872:400;1832:400",
+							"nameLabel": {
+								"$ref": "AAAAAAGHwqAVICrIMvQ="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHwqdsais5HaY=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwqdsaSs3JMI="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHwqdsais6w4c=",
+									"_parent": {
+										"$ref": "AAAAAAGHwqdsais5HaY="
+									},
+									"model": {
+										"$ref": "AAAAAAGHwqdsaSs3JMI="
+									},
+									"font": "Arial;20;0",
+									"left": 1371,
+									"top": 459,
+									"width": 267.939453125,
+									"height": 20,
+									"alpha": -0.5585995962425652,
+									"distance": 18.867962264113206,
+									"hostEdge": {
+										"$ref": "AAAAAAGHwqdsais5HaY="
+									},
+									"edgePosition": 1,
+									"text": "Get candidate for a certain job"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHPfy+vqrN0Sk="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHwoCzTSpvA1U="
+							},
+							"lineStyle": 2,
+							"points": "1704:480;1336:480",
+							"nameLabel": {
+								"$ref": "AAAAAAGHwqdsais6w4c="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHwqoAJitH59U=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwqoAJStFFhI="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHwqoAJitIg2E=",
+									"_parent": {
+										"$ref": "AAAAAAGHwqoAJitH59U="
+									},
+									"model": {
+										"$ref": "AAAAAAGHwqoAJStFFhI="
+									},
+									"font": "Arial;20;0",
+									"left": 1430,
+									"top": 684,
+									"width": 186.767578125,
+									"height": 20,
+									"alpha": 4.420931268475883,
+									"distance": 10.44030650891055,
+									"hostEdge": {
+										"$ref": "AAAAAAGHwqoAJitH59U="
+									},
+									"edgePosition": 1,
+									"text": "Get list of candidates"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHPfy+vqrN0Sk="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHwoCWhSpmqaU="
+							},
+							"lineStyle": 2,
+							"points": "1704:704;1336:704",
+							"nameLabel": {
+								"$ref": "AAAAAAGHwqoAJitIg2E="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHwqsNzCthe4k=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwqsNzCtf8TQ="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHwqsNzCtiU0I=",
+									"_parent": {
+										"$ref": "AAAAAAGHwqsNzCthe4k="
+									},
+									"model": {
+										"$ref": "AAAAAAGHwqsNzCtf8TQ="
+									},
+									"font": "Arial;20;0",
+									"left": 1442,
+									"top": 899,
+									"width": 152.275390625,
+									"height": 20,
+									"alpha": -1.3734017284836622,
+									"distance": 10.198039027185569,
+									"hostEdge": {
+										"$ref": "AAAAAAGHwqsNzCthe4k="
+									},
+									"edgePosition": 1,
+									"text": "Get list of reports"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHPfy+vqrN0Sk="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHwoB5hSpcf9U="
+							},
+							"lineStyle": 2,
+							"points": "1704:920;1336:920",
+							"nameLabel": {
+								"$ref": "AAAAAAGHwqsNzCtiU0I="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHwrDSViu7ZNY=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwrDSViu56lc="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHwrDSViu8YSA=",
+									"_parent": {
+										"$ref": "AAAAAAGHwrDSViu7ZNY="
+									},
+									"model": {
+										"$ref": "AAAAAAGHwrDSViu56lc="
+									},
+									"font": "Arial;13;0",
+									"left": 1766,
+									"top": 1224,
+									"width": 78.0380859375,
+									"height": 13,
+									"alpha": 1.52321295705235,
+									"distance": 42.04759208325728,
+									"hostEdge": {
+										"$ref": "AAAAAAGHwrDSViu7ZNY="
+									},
+									"edgePosition": 1,
+									"text": "Click on a job"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHPgzkEavxOSg="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHPgFYTKtIRqo="
+							},
+							"lineStyle": 2,
+							"points": "1764:1192;1764:1264",
+							"nameLabel": {
+								"$ref": "AAAAAAGHwrDSViu8YSA="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAGHwrOSsyvoKI8=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwrOSsivmW4Q="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGHwrOSsyvpCQg=",
+									"_parent": {
+										"$ref": "AAAAAAGHwrOSsyvoKI8="
+									},
+									"fillColor": "#ffe69b",
+									"font": "Arial;13;0",
+									"left": 458,
+									"top": 682,
+									"width": 53,
+									"height": 13,
+									"text": "User",
+									"wordWrap": true
+								}
+							],
+							"fillColor": "#ffe69b",
+							"font": "Arial;13;0",
+							"left": 448,
+							"top": 672,
+							"width": 73,
+							"height": 65,
+							"nameLabel": {
+								"$ref": "AAAAAAGHwrOSsyvpCQg="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHwrPRoiv0kqM=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwrPRoSvyQXU="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHwrPRoiv18nM=",
+									"_parent": {
+										"$ref": "AAAAAAGHwrPRoiv0kqM="
+									},
+									"model": {
+										"$ref": "AAAAAAGHwrPRoSvyQXU="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 480,
+									"top": 331,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHwrPRoiv0kqM="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHPfIen6npuhc="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHwrOSsyvoKI8="
+							},
+							"lineStyle": 2,
+							"points": "480:672;480:352;696:352",
+							"nameLabel": {
+								"$ref": "AAAAAAGHwrPRoiv18nM="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAGHwrPc+iv9Fgg=",
+							"_parent": {
+								"$ref": "AAAAAAGHPe3TYKnCYAQ="
+							},
+							"model": {
+								"$ref": "AAAAAAGHwrPc+iv7hGE="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGHwrPc+iv+WBc=",
+									"_parent": {
+										"$ref": "AAAAAAGHwrPc+iv9Fgg="
+									},
+									"model": {
+										"$ref": "AAAAAAGHwrPc+iv7hGE="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 480,
+									"top": 1133,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGHwrPc+iv9Fgg="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGHPfGteqndPJc="
+							},
+							"tail": {
+								"$ref": "AAAAAAGHwrOSsyvoKI8="
+							},
+							"lineStyle": 2,
+							"points": "480:736;480:1154;616:1154",
+							"nameLabel": {
+								"$ref": "AAAAAAGHwrPc+iv+WBc="
 							}
 						}
 					]
@@ -998,7 +1283,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGHPe3TYKnBcvY="
 					},
-					"name": "User - Candidate",
+					"name": "Candidate",
 					"ownedElements": [
 						{
 							"_type": "FCFlow",
@@ -1006,7 +1291,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHPfGteqnb+U4="
 							},
-							"name": "Clicks a link to a specific job",
+							"name": "Clicks a link (facebook, whatsapp...)",
 							"source": {
 								"$ref": "AAAAAAGHPfGteqnb+U4="
 							},
@@ -1036,7 +1321,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGHPe3TYKnBcvY="
 					},
-					"name": "User - Recruiter",
+					"name": "Recruiter / Admin",
 					"ownedElements": [
 						{
 							"_type": "FCFlow",
@@ -1064,34 +1349,6 @@
 					"ownedElements": [
 						{
 							"_type": "FCFlow",
-							"_id": "AAAAAAGHPgpyQqu52xA=",
-							"_parent": {
-								"$ref": "AAAAAAGHPfy+vqrLxtc="
-							},
-							"name": "List of Jobs",
-							"source": {
-								"$ref": "AAAAAAGHPfy+vqrLxtc="
-							},
-							"target": {
-								"$ref": "AAAAAAGHPgFYTKtGeU0="
-							}
-						},
-						{
-							"_type": "FCFlow",
-							"_id": "AAAAAAGHPhJa+qxX664=",
-							"_parent": {
-								"$ref": "AAAAAAGHPfy+vqrLxtc="
-							},
-							"name": "Job Page",
-							"source": {
-								"$ref": "AAAAAAGHPfy+vqrLxtc="
-							},
-							"target": {
-								"$ref": "AAAAAAGHPgzkEavvMnE="
-							}
-						},
-						{
-							"_type": "FCFlow",
 							"_id": "AAAAAAGHPhPp8KyTmdg=",
 							"_parent": {
 								"$ref": "AAAAAAGHPfy+vqrLxtc="
@@ -1110,7 +1367,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHPfy+vqrLxtc="
 							},
-							"name": "Send email that candidacy has been updated in our system",
+							"name": "Send email that their info was updated in our system",
 							"source": {
 								"$ref": "AAAAAAGHPfy+vqrLxtc="
 							},
@@ -1131,20 +1388,6 @@
 							"target": {
 								"$ref": "AAAAAAGHPimCpa2l1So="
 							}
-						},
-						{
-							"_type": "FCFlow",
-							"_id": "AAAAAAGHPjXt865WhGg=",
-							"_parent": {
-								"$ref": "AAAAAAGHPfy+vqrLxtc="
-							},
-							"name": "Statistics Page",
-							"source": {
-								"$ref": "AAAAAAGHPfy+vqrLxtc="
-							},
-							"target": {
-								"$ref": "AAAAAAGHPjQtUK4Sgk0="
-							}
 						}
 					]
 				},
@@ -1162,7 +1405,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHPgFYTKtGeU0="
 							},
-							"name": "Get List Of Jobs",
+							"name": "Get list of jobs",
 							"source": {
 								"$ref": "AAAAAAGHPgFYTKtGeU0="
 							},
@@ -1186,16 +1429,16 @@
 						},
 						{
 							"_type": "FCFlow",
-							"_id": "AAAAAAGHPjVN8q5BylE=",
+							"_id": "AAAAAAGHwrDSViu56lc=",
 							"_parent": {
 								"$ref": "AAAAAAGHPgFYTKtGeU0="
 							},
-							"name": "Request Job Page",
+							"name": "Click on a job",
 							"source": {
 								"$ref": "AAAAAAGHPgFYTKtGeU0="
 							},
 							"target": {
-								"$ref": "AAAAAAGHPfy+vqrLxtc="
+								"$ref": "AAAAAAGHPgzkEavvMnE="
 							}
 						}
 					]
@@ -1214,7 +1457,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHPgzkEavvMnE="
 							},
-							"name": "Add Candidacy Information",
+							"name": "Send candidacy information",
 							"source": {
 								"$ref": "AAAAAAGHPgzkEavvMnE="
 							},
@@ -1230,22 +1473,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGHPe3TYKnBcvY="
 					},
-					"name": "Recruiter Page",
+					"name": "Recruiter's Main Page",
 					"ownedElements": [
-						{
-							"_type": "FCFlow",
-							"_id": "AAAAAAGHPjYKRa5hLSA=",
-							"_parent": {
-								"$ref": "AAAAAAGHPimCpa2l1So="
-							},
-							"name": "Request Statistics Page",
-							"source": {
-								"$ref": "AAAAAAGHPimCpa2l1So="
-							},
-							"target": {
-								"$ref": "AAAAAAGHPfy+vqrLxtc="
-							}
-						},
 						{
 							"_type": "FCFlow",
 							"_id": "AAAAAAGHPjhx566FRxU=",
@@ -1259,16 +1488,158 @@
 							"target": {
 								"$ref": "AAAAAAGHPimCpa2l1So="
 							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHwpopDiqhv1Q=",
+							"_parent": {
+								"$ref": "AAAAAAGHPimCpa2l1So="
+							},
+							"name": "Request Reports Page",
+							"source": {
+								"$ref": "AAAAAAGHPimCpa2l1So="
+							},
+							"target": {
+								"$ref": "AAAAAAGHwoB5hSpaHX8="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHwpqlKSq0Gmw=",
+							"_parent": {
+								"$ref": "AAAAAAGHPimCpa2l1So="
+							},
+							"name": "Request Manage Candidates Page",
+							"source": {
+								"$ref": "AAAAAAGHPimCpa2l1So="
+							},
+							"target": {
+								"$ref": "AAAAAAGHwoCWhCpk3UE="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHwqAVHyrFvAY=",
+							"_parent": {
+								"$ref": "AAAAAAGHPimCpa2l1So="
+							},
+							"name": "Request Manage Jobs Page",
+							"source": {
+								"$ref": "AAAAAAGHPimCpa2l1So="
+							},
+							"target": {
+								"$ref": "AAAAAAGHwoCzTCptQ5A="
+							}
 						}
 					]
 				},
 				{
 					"_type": "FCProcess",
-					"_id": "AAAAAAGHPjQtUK4Sgk0=",
+					"_id": "AAAAAAGHwoB5hSpaHX8=",
 					"_parent": {
 						"$ref": "AAAAAAGHPe3TYKnBcvY="
 					},
-					"name": "Statistics Page"
+					"name": "Reports Page",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHwqsNzCtf8TQ=",
+							"_parent": {
+								"$ref": "AAAAAAGHwoB5hSpaHX8="
+							},
+							"name": "Get list of reports",
+							"source": {
+								"$ref": "AAAAAAGHwoB5hSpaHX8="
+							},
+							"target": {
+								"$ref": "AAAAAAGHPfy+vqrLxtc="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGHwoCWhCpk3UE=",
+					"_parent": {
+						"$ref": "AAAAAAGHPe3TYKnBcvY="
+					},
+					"name": "Manage Candidates Page",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHwqoAJStFFhI=",
+							"_parent": {
+								"$ref": "AAAAAAGHwoCWhCpk3UE="
+							},
+							"name": "Get list of candidates",
+							"source": {
+								"$ref": "AAAAAAGHwoCWhCpk3UE="
+							},
+							"target": {
+								"$ref": "AAAAAAGHPfy+vqrLxtc="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGHwoCzTCptQ5A=",
+					"_parent": {
+						"$ref": "AAAAAAGHPe3TYKnBcvY="
+					},
+					"name": "Manage Jobs Page",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHwqdsaSs3JMI=",
+							"_parent": {
+								"$ref": "AAAAAAGHwoCzTCptQ5A="
+							},
+							"name": "Get candidate for a certain job",
+							"source": {
+								"$ref": "AAAAAAGHwoCzTCptQ5A="
+							},
+							"target": {
+								"$ref": "AAAAAAGHPfy+vqrLxtc="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAGHwrOSsivmW4Q=",
+					"_parent": {
+						"$ref": "AAAAAAGHPe3TYKnBcvY="
+					},
+					"name": "User",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHwrPRoSvyQXU=",
+							"_parent": {
+								"$ref": "AAAAAAGHwrOSsivmW4Q="
+							},
+							"source": {
+								"$ref": "AAAAAAGHwrOSsivmW4Q="
+							},
+							"target": {
+								"$ref": "AAAAAAGHPfIen6nnSu4="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAGHwrPc+iv7hGE=",
+							"_parent": {
+								"$ref": "AAAAAAGHwrOSsivmW4Q="
+							},
+							"source": {
+								"$ref": "AAAAAAGHwrOSsivmW4Q="
+							},
+							"target": {
+								"$ref": "AAAAAAGHPfGteqnb+U4="
+							}
+						}
+					]
 				}
 			]
 		}

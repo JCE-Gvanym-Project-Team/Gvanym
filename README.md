@@ -12,3 +12,5 @@ We were asked to create a website that would manage the recruitment system. Recr
 - spacing: tab = 4 spaces
 - always document your functions, and components
 - identation: always format your files
+- use React Bootstrap
+- use React Router to traverse between pages

@@ -7,7 +7,7 @@ We were asked to create a website that would manage the recruitment system. Recr
 
 
 # Coding Conventions
-- variable and function names: mainPageAndAnotherWord instead of main_page. also no capital letters at the start of the word
+- variable and function names: mainPageAndAnotherWord instead of main_page_and_another_word. also no capital letters at the start of the word
 - no css at all inside a .tsx file
 - spacing: tab = 4 spaces
 - always document your functions, and components

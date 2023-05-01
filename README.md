@@ -12,6 +12,5 @@ We were asked to create a website that would manage the recruitment system. Recr
 - spacing: tab = 4 spaces
 - always document your functions, and components
 - identation: always format your files
-- use React Bootstrap
-- use React Router to traverse between pages
+- use React Bootstrap for basic components, and React Router to traverse between pages
 - use the Components folder (there is one inside the folder you are working on) to add new files to the project, those files should represent a Component with some kind of meaning, for example a component called "Navbar" will represent the top of the page, and will contain all the code for it
